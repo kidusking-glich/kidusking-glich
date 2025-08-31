@@ -28,20 +28,20 @@ Customize the content to reflect your unique journey and personality.
 -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/150x150/505050/FFFFFF/png%3Ftext%3DYour%2BPhoto" alt="Your Name - Software Engineer" style="border-radius: 50%; border: 3px solid #00BFFF;">
+<img src="https://www.google.com/search?q=https://placehold.co/150x150/505050/FFFFFF/png%3Ftext%3DYour%2BPhoto" alt="Abel Yohannes - Software Engineer" style="border-radius: 50%; border: 3px solid #00BFFF;">
 <br>
-<h1 style="color: #00BFFF; font-weight: bold;">[Your Full Name]</h1>
+<h1 style="color: #00BFFF; font-weight: bold;">Abel Yohannes</h1>
 <h3 style="color: #66CCFF;">Backend Software Engineer | Passionate about building robust, scalable APIs and applications</h3>
 </div>
 
 <p align="center">
-<a href="[Your LinkedIn Profile URL]">
+<a href="https://www.linkedin.com/in/abel-yohannes-glich/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-blue%3Fstyle%3Dflat-square%26logo%3DLinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge">
 </a>
 <a href="[Your Portfolio/Website URL]">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Portfolio-orange%3Fstyle%3Dflat-square%26logo%3Dappveyor%26logoColor%3Dwhite" alt="Portfolio Badge">
 </a>
-<a href="mailto:[Your Email Address]">
+<a href="mailto:Abel Yohannes">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-c14438%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge">
 </a>
 </p>
